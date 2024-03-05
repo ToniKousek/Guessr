@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/wordDefinition"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:ems="10"
+        android:inputType="textMultiLine"
+        android:minHeight="48dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="Placeholder"
+        android:textAlignment="center"
+        tools:ignore="HardcodedText"
+        android:importantForAutofill="no" />
+    <View
+        android:id="@+id/divider"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="?android:attr/listDivider"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text"
+        android:maxHeight="48dp"
+        android:minHeight="48dp"
+        android:layout_marginTop="400dp"
+        android:text="Name"
+        tools:ignore="HardcodedText" />
+
+</LinearLayout>
