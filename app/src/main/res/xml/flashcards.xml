@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flashcards>
+    <flashcard>
+        <question>Koji je glavni grad Francuske?</question>
+        <answer>Pariz</answer>
+    </flashcard>
+    <flashcard>
+        <question>Koliko je 2 + 2?</question>
+        <answer>4</answer>
+    </flashcard>
+    <flashcard>
+        <question>Koje je boje nebo?</question>
+        <answer>Plave</answer>
+    </flashcard>
+    <flashcard>
+        <question>Što je Gradle?</question>
+        <answer>Compiler</answer>
+    </flashcard>
+</flashcards>
